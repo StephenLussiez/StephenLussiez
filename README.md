@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Stephen, I'm a student in game development in Bordeaux Ynov Campus.
+Welcome on my github, feel free to explore my repositories where you can find all my small projects from my class in Ynov. 
 <!--
 **StephenLussiez/StephenLussiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
